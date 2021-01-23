@@ -1,10 +1,10 @@
-# DSF5
+# MLwPython
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neworldemancer/DSF5/master)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neworldemancer/DSF5)
 
 
-Data Science Fundamentals 5 course at the University of Bern
+Introduction course on Machine Learning wih Pythob
 
 Learning outcomes:
 
@@ -19,4 +19,4 @@ Day 2:
 * Artificial Neural networks as general fitters, fully connected nets used to classify the fashion-MNIST dataset
 * Scikit-learn and clustering maps, Q&A
 
-Our wepgabe is [scits.unibe.ch](http://scits.unibe.ch)
+Our wepgabe is ...
